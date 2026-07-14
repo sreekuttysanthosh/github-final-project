@@ -10,6 +10,11 @@ This project provides a simple Bash script to calculate simple interest based on
 - Easy-to-use Bash script
 - Beginner-friendly example
 - Open source project
+  
+## Input:
+Principal
+Rate
+Time
 
 ## Formula
 
