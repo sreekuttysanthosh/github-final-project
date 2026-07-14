@@ -12,9 +12,9 @@ This project provides a simple Bash script to calculate simple interest based on
 - Open source project
   
 ## Input:
-Principal
-Rate
-Time
+-Principal
+-Rate
+-Time
 
 ## Formula
 
