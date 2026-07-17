@@ -1,25 +1,13 @@
-# Simple Interest Calculator
+# This is the README.md file for the **github-final-project**
 
-## Description
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-This project provides a simple Bash script to calculate simple interest based on the principal amount, annual rate of interest, and time period.
-
-## Features
-
-- Calculates simple interest
-- Easy-to-use Bash script
-- Beginner-friendly example
-- Open source project
-  
-## Input:
-- Principal
-- Rate
-- Time
-
-
-## Formula
-
-Simple Interest = (Principal × Rate × Time) / 100
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r/100
 
 ## Author
 
