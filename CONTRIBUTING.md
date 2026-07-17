@@ -2,13 +2,7 @@
 
 Thank you for your interest in contributing to this project.
 
-We welcome:
-
-- Bug reports
-- Bug fixes
-- Documentation improvements
-- Feature enhancements
-- Ideas for improving the project
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome 
 
 Please create an issue before making significant changes.
 
